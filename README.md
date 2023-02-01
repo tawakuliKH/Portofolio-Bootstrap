@@ -67,7 +67,7 @@ Describing my bio, my skills and my backround.
 <details>
   <summary>Client</summary>
   <ul>
-    <li><a href="https:///">HTML & CSS</a></li>
+    <li><a href="https:///">HTML & CSS(Bootstrap 5)</a></li>
   </ul>
 </details>
 
