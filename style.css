@@ -9,10 +9,16 @@
 
 .header {
   height: 500px;
-  background-image: url("assets/desktop\ files/header.png");
+  background-image: url("assets/desktop/files/header.png");
 }
 
 .borderless li {
   border: none;
   background-color: none;
+}
+
+.contact {
+  background-image: url("assets/desktop files/contact form-back.png");
+  background-color: #6070FF;
+  height: 500px;
 }
