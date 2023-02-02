@@ -9,7 +9,19 @@
 
 .header {
   height: 500px;
-  background-image: url("assets/desktop/files/header.png");
+  background-image: url("assets/desktop files/header.png");
+  padding-top: 150px;
+}
+
+.list-group li {
+  border: none;
+}
+
+.navbar-brand {
+  font-weight: 700;
+  font-size: 18px;
+  line-height: 20px;
+  color: #6070ff;
 }
 
 .borderless li {
@@ -17,8 +29,43 @@
   background-color: none;
 }
 
+.card {
+  padding: 5px;
+  border-radius: 10px;
+}
+
 .contact {
   background-image: url("assets/desktop files/contact form-back.png");
-  background-color: #6070FF;
-  height: 500px;
+  background-color: #6070ff;
+  height: 100%;
+  margin-top: 100px;
+  padding-top: 100px;
+  padding-bottom: 50px;
+  border-top-left-radius: 100px;
+}
+
+.badge {
+  color: #6070ff;
+  background: #ebebff;
+}
+
+.about {
+  margin-top: 100px;
+  padding: 10px;
+}
+
+.get-resume {
+  margin-top: 30px;
+}
+
+.techs {
+  margin-top: 20px;
+}
+
+.skills {
+  margin-top: 20px;
+}
+
+.space {
+  height: 10px;
 }
